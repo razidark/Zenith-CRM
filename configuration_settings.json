@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "appName": "Zenith",
+    "version": "1.0.0",
+    "themeColor": "#007bff"
+  },
+  "database": {
+    "connectionString": "sqlite:///zenith.db",
+    "autoMigrate": true
+  }
+}
