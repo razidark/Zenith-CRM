@@ -3,3 +3,7 @@ dist*/
 build/
 out/
 *.exe
+*.dmg
+*.AppImage
+*.blockmap
+*.snap
